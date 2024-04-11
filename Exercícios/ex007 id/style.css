@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(168, 187, 212, 0.651);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#principal {
+    text-align: center;
+    color: brown;
+}
+.titulo {
+    color: blue;
+}
+ p{
+    text-align: justify;
+ }
+
+ .sub {
+    color: rgba(66, 66, 165, 0.829);
+ }
